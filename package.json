@@ -1,21 +1,26 @@
 {
-  "name": "codev-theme",
-  "displayName": "codev-theme",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.82.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "CodevDark Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/CodevDark Theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "codev-theme",
+	"displayName": "codev-theme",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Marc-bd/codevdark--theme"
+	},
+	"publisher": "marcosbd",
+	"contributes": {
+		"themes": [
+			{
+				"label": "CodevDark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/CodevDark Theme-color-theme.json"
+			}
+		]
+	}
 }
