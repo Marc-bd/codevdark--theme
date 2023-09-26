@@ -76,10 +76,10 @@
 		"sideBarSectionHeader.background": "#353535",
 		"sideBarSectionHeader.border": "#616161",
 		"sideBar.border": "#5e5d5d",
-		"statusBar.background": "#703131",
-		"statusBar.debuggingBackground": "#ff0000",
+		"statusBar.background": "#0f5a85",
+		"statusBar.debuggingBackground": "#ff8800",
 		"statusBar.noFolderBackground": "#414339",
-		"statusBarItem.remoteBackground": "#ac6218",
+		"statusBarItem.remoteBackground": "#1eda28",
 
 		"tab.activeBackground": "#1a1919",
 		"tab.activeBorderTop": "#4e4e4e",
